@@ -115,5 +115,3 @@ If the burn fails with a semaphore/permission error, it can be caused by **UEFI 
 - Perform updates during a maintenance window and keep physical/remote access in case of issues.
 - Keep a copy of the current firmware details (`mstflint ... query`) for records before upgrading.
 
-super, soubor ke stažení
-
